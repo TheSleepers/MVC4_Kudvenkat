@@ -2,3 +2,9 @@ C:\Users\peters\Documents\Visual Studio 2012\Projects\MVC4_Kudvenkat\BusinessLay
 C:\Users\peters\Documents\Visual Studio 2012\Projects\MVC4_Kudvenkat\BusinessLayer\bin\Debug\BusinessLayer.pdb
 C:\Users\peters\Documents\Visual Studio 2012\Projects\MVC4_Kudvenkat\BusinessLayer\obj\Debug\BusinessLayer.dll
 C:\Users\peters\Documents\Visual Studio 2012\Projects\MVC4_Kudvenkat\BusinessLayer\obj\Debug\BusinessLayer.pdb
+C:\Users\peters\Documents\Visual Studio 2012\Projects\MVC4_Kudvenkat\BusinessLayer\bin\Debug\BusinessLayer.dll.config
+C:\Users\peters\Documents\Visual Studio 2012\Projects\MVC4_Kudvenkat\BusinessLayer\bin\Debug\EntityFramework.dll
+C:\Users\peters\Documents\Visual Studio 2012\Projects\MVC4_Kudvenkat\BusinessLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\peters\Documents\Visual Studio 2012\Projects\MVC4_Kudvenkat\BusinessLayer\bin\Debug\EntityFramework.xml
+C:\Users\peters\Documents\Visual Studio 2012\Projects\MVC4_Kudvenkat\BusinessLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\peters\Documents\Visual Studio 2012\Projects\MVC4_Kudvenkat\BusinessLayer\obj\Debug\BusinessLayer.csprojResolveAssemblyReference.cache
